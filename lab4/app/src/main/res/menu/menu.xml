@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_baza"
+        android:title="Baza danych" />
+    <item android:id="@+id/menu_zapytanie"
+        android:title="Zapytanie" />
+    <item android:id="@+id/menu_film"
+        android:title="Film" />
+    <item android:id="@+id/menu_glowna"
+        android:title="Start" />
+</menu>

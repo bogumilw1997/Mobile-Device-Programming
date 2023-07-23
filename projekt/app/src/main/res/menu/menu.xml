@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<group android:checkableBehavior="single"
+    android:id="@+id/group"
+    android:checkedButton="@+id/oktawa0">
+
+    <item android:id="@+id/oktawa1" android:title="Oktawa 1"/>
+    <item android:id="@+id/oktawa2" android:title="Oktawa 2"/>
+    <item android:id="@+id/oktawa3" android:title="Oktawa 3"/>
+    <item android:id="@+id/oktawa4" android:title="Oktawa 4"/>
+    <item android:id="@+id/oktawa5" android:title="Oktawa 5"/>
+    <item android:id="@+id/oktawa6" android:title="Oktawa 6"/>
+    <item android:id="@+id/oktawa7" android:title="Oktawa 7"/>
+
+    <item android:id="@+id/start_rec" android:title="Nagrywanie"/>
+    <item android:id="@+id/stop_rec" android:title="Zat. Nagr."/>
+
+</group>
+</menu>
